@@ -12,4 +12,4 @@ runtime/**/target
 /scripts/benchmarking/machine_benchmark_result.txt
 /scripts/benchmarking/rocksdb_weights.rs
 /scripts/benchmarking/frame-weights-output/
-/scripts/benchmarking/xcm-weights-output/
+/scripts/benchmarking/xcm-weights-output/2
